@@ -15,12 +15,10 @@ Sebelum memulai, pastikan Anda sudah menginstall:
    git clone https://github.com/username/nama-project.git
    cd nama-project
    ```
-Install dependencies PHP via Composer
-
-bash
-Copy
-Edit
-composer install
+2. **Install dependencies PHP via Composer**
+   ```
+   composer install
+   ```
 Install dependencies Javascript (jika ada frontend build)
 
 bash
