@@ -13,8 +13,8 @@ Sebelum memulai, pastikan Anda sudah menginstall:
 1. **Clone repository**
    ```
    git clone https://github.com/username/nama-project.git
-   ```
    cd nama-project
+   ```
 Install dependencies PHP via Composer
 
 bash
