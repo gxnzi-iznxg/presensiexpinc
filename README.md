@@ -1,12 +1,3 @@
-## 📋 Prasyarat
-Sebelum memulai, pastikan Anda sudah menginstall:
-- [PHP](https://www.php.net/downloads) (versi >= 8.1)
-- [Composer](https://getcomposer.org/download/)
-- [Node.js & NPM](https://nodejs.org/) (opsional, jika menggunakan frontend build seperti Vite)
-- [MySQL](https://dev.mysql.com/downloads/) atau [PostgreSQL](https://www.postgresql.org/download/) (sesuai kebutuhan project)
-- [Git](https://git-scm.com/)
-
----
 
 ## 🔧 Instalasi
 
