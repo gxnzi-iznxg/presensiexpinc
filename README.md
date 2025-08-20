@@ -19,42 +19,29 @@ Sebelum memulai, pastikan Anda sudah menginstall:
    ```
    composer install
    ```
-Install dependencies Javascript (jika ada frontend build)
+3. **Install dependencies Javascript**
+   ```
+   npm install
+   ```
+4. **Copy file environment**
+   ```
+   cp .env.example .env
+   ```
+   Lalu sesuaikan konfigurasi database, mail, dll. di dalam file .env.
 
-bash
-Copy
-Edit
-npm install
-Copy file environment
-
-bash
-Copy
-Edit
-cp .env.example .env
-Lalu sesuaikan konfigurasi database, mail, dll. di dalam file .env.
-
-Generate application key
-
-bash
-Copy
-Edit
-php artisan key:generate
-Jalankan migrasi database
-
-bash
-Copy
-Edit
-php artisan migrate
-(Opsional) Jalankan seeder untuk data awal
-
-bash
-Copy
-Edit
-php artisan db:seed
-Jalankan aplikasi
-
-bash
-Copy
-Edit
-php artisan serve
-Akses di browser: http://localhost:8000
+5. **Generate application key**
+   ```
+   php artisan key:generate
+   ```
+6. **Jalankan migrasi database**
+   ```
+   php artisan migrate
+   ```
+7. **Jalankan seeder untuk data awal**
+   ```
+   php artisan db:seed
+   ```
+8. **Jalankan aplikasi**
+   ```
+   php artisan serve
+   ```
