@@ -1,6 +1,7 @@
 🌐 Akses Aplikasi
-Website dapat diakses melalui: [http://localhost:8000](https://absensiexpinc.my.id/)
-Link download APK : [Download APK](https://drive.google.com/file/d/18LX7WCP6q2FB7dAypQ-d8LcECcczg7An/view?usp=sharing)
+
+Website dapat diakses melalui: https://absensiexpinc.my.id/
+Link download APK : https://drive.google.com/file/d/18LX7WCP6q2FB7dAypQ-d8LcECcczg7An/view?usp=sharing
 
 ## 🔧 Instalasi
 
