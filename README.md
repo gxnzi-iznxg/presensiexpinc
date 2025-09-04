@@ -2,7 +2,9 @@
 
 Website dapat diakses melalui: https://absensiexpinc.my.id/
 
-Link download APK : https://drive.google.com/file/d/18LX7WCP6q2FB7dAypQ-d8LcECcczg7An/view?usp=sharing
+Untuk website admin: https://absensiexpinc.my.id/panel
+
+Link download APK: https://drive.google.com/file/d/18LX7WCP6q2FB7dAypQ-d8LcECcczg7An/view?usp=sharing
 
 ## 🔧 Instalasi
 
